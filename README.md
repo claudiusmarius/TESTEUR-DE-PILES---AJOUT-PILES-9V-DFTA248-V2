@@ -1,7 +1,7 @@
 # TESTEUR-DE-PILES---AJOUT-PILES-9V-DFTA248-V2
 
 Vidéo YouTube : https://youtu.be/nnxStHscltk
-<img width="323" height="21" alt="image" src="https://github.com/user-attachments/assets/82a6adbb-4d33-4cf2-aca3-77eb994f38dc" />
+
 
 # DFTA248V2
 
