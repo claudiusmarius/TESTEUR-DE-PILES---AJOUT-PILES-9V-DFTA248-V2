@@ -38,7 +38,7 @@ Améliorer la fiabilité du diagnostic 9V tout en conservant :
 - PCB DFTA248
 - ATtiny
 - NeoPixel 12 LEDs
-- Résistance de charge 2.2Ω
+
 
 ---
 
